@@ -1,9 +1,9 @@
 # CEDA
 
 ## Introduction
-Chronic rhinosinusitis (CRS) is a highly heterogeneous disease and its pathological endotype is closely related to prognosis, but objective and accurate diagnostic tools for endotypes are lacking. We develop a robust CRS pathological endotype detection with artificial intelligence (CEDA) and perform digital stereoscopic nasal polyps (DSNP) reconstruction, contributing to precision diagnosis and individualized treatment. CEDA consists of two main parts, the first part is that we use [PA-P2PNet](https://arxiv.org/abs/2303.02602 "DPA-P2PNet: Deformable Proposal-aware P2PNet for Accurate Point-based Cell Detection") to detect cells. The second part uses [DeepLab V3+](https://github.com/VainF/DeepLabV3Plus-Pytorch "DeepLabV3Plus-Pytorch")(This part of the code is shown in this link and is no longer available here) to detect tissue areas.
+Nasal polyp (NP) is a highly heterogeneous disease and its pathological endotype is closely related to prognosis, but objective and accurate diagnostic tools for subtype are lacking. We develop a robust NP pathological subtype diagnosis system (NPSS) with artificial intelligence, contributing to precision diagnosis and individualized treatment. NPSS consists of two main parts, the first part is that we use [PA-P2PNet](https://arxiv.org/abs/2303.02602 "DPA-P2PNet: Deformable Proposal-aware P2PNet for Accurate Point-based Cell Detection") to detect cells. The second part uses [DeepLab V3+](https://github.com/VainF/DeepLabV3Plus-Pytorch "DeepLabV3Plus-Pytorch")(This part of the code is shown in this link and is no longer available here) to detect tissue areas.
 
-This is the code for CEDA. For more details, please refer to our paper.
+This is the code for NPSS. For more details, please refer to our paper.
 
 Code has been tested with Python 3.6 and Torch 1.10.
 
