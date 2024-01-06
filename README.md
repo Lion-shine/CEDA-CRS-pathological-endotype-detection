@@ -26,4 +26,8 @@ You can download our software from BaiduYun or Google drive. When you unzip down
 
 [BaiduYun](https://pan.baidu.com/s/1wT1IUSAFg52latEgklSXlw?pwd=kqi1)
 
+<p align="center">
+    <img src="imgs/npss3D.jpg" width=600></br>
+</p>
+
 
