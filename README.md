@@ -20,3 +20,7 @@ CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 -
 <p align="center">
     <img src="imgs/image1.jpg" width=600></br>
 </p>
+
+## NPSS-3D
+[BaiduYun:](https://pan.baidu.com/s/1wT1IUSAFg52latEgklSXlw?pwd=kqi1)
+
