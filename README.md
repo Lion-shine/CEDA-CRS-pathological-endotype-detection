@@ -22,5 +22,7 @@ CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 -
 </p>
 
 ## NPSS-3D
-[BaiduYun:](https://pan.baidu.com/s/1wT1IUSAFg52latEgklSXlw?pwd=kqi1)
+You can download our software from BaiduYun or Google drive. When you unzip downloaded file you can see "PolypViewer.exe", run it and enjoy the digital 3d NP world.
+[BaiduYun](https://pan.baidu.com/s/1wT1IUSAFg52latEgklSXlw?pwd=kqi1)
+
 
